@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pizza-cabin-sargodha.vercel.app/sitemap.xml
